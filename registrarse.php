@@ -1,6 +1,4 @@
-<?php
-include_once("cCliente.php");
-?>
+
 
 
 <!DOCTYPE html>
